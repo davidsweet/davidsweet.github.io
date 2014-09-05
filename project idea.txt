@@ -1,0 +1,19 @@
+home page:
+buttons to resume and vision
+who I am and what this website is for.
+links to FB and contact info
+
+
+
+resume/vision:
+top left is button to home
+top right is button to other
+
+vision:
+what it is in one sentence
+how its new
+why it matters/effects
+who would use it
+
+how it works
+	
